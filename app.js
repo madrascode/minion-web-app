@@ -1,10 +1,10 @@
-// // input 
+// input 
 // var username = prompt('Give me username')
 
-// // processing
+// processing
 // var welcomeMessage = 'this script works!!' + username
 
-// // output
+// output
 // alert(welcomeMessage)
 
 
@@ -16,7 +16,7 @@ var resultdivOutput = document.querySelector('.output')
 
 // resultdivOutput.innerText = "hello"
 
-console.log(textInput)
+// console.log(textInput)
 
 function btnKliked(){
     console.log('clicked!')
